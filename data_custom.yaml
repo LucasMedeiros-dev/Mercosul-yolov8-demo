@@ -1,0 +1,6 @@
+train: C:\Users\Lucas\Desktop\pasta\datasets\train
+val: C:\Users\Lucas\Desktop\pasta\datasets\val
+
+nc: 1
+
+names: ["placa_mer"]
