@@ -1,5 +1,5 @@
-train: C:\Users\Lucas\Desktop\pasta\datasets\train
-val: C:\Users\Lucas\Desktop\pasta\datasets\val
+train: {INSIRA O DIRETORIO COMPLETO AQUI}\datasets\train
+val: {INSIRA O DIRETORIO COMPLETO AQUI}\datasets\val
 
 nc: 1
 
