@@ -42,3 +42,4 @@ Está contida no arquivo *treinar.bat* o comando necessário para treinar utiliz
 #Abaixo o comando contido no arquivo.
 yolo task=detect mode=train epochs=150 data=data_custom.yaml model=yolov8n.pt imgsz=640
 ```
+## Em seguida ler atentamente o output do terminal e ir ajustando de acordo e ser feliz!
